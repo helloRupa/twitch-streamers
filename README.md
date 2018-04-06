@@ -9,7 +9,7 @@ See which Twitch users are currently streaming. There is a lag between the API I
 - See usernames, logos, whether they're online or offline, and description of what they're streaming if online
 - See all users listed, or just who's online or offline
 
-* Made as part of the FreeCodeCamp curriculum *
+*Made as part of the FreeCodeCamp curriculum*
 
 Demo (though it's not updated) at https://codepen.io/rdhi/pen/xYmEvK
 Most up-to-date code is here on GH
