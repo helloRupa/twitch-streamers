@@ -12,4 +12,5 @@ See which Twitch users are currently streaming. There is a lag between the API I
 *Made as part of the FreeCodeCamp curriculum*
 
 Demo (though it's not updated) at https://codepen.io/rdhi/pen/xYmEvK
+
 Most up-to-date code is here on GH
