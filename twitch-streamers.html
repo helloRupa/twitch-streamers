@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Twitch Streamer Statuses</title>
+    <meta name="description" content="See who's streaming on Twitch and who isn't">
+    <meta name="author" content="Rupa">
+    <link href="https://fonts.googleapis.com/css?family=Lato|Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+    <div id="error">
+        <p>We're sorry. Something has gone wrong.</p>
+        <p>Please check back later.</p>
+    </div>
+    <div id="container">
+        <h1>Twitch Streamers</h1>
+        <div id=buttons>
+            <a href="#~" id="all" class="selected">All</a>
+            <a href="#~" id="online">Online</a>
+            <a href="#~" id="offline">Offline</a>
+        </div>
+        <div id="users"></div>
+        <footer>The API we're using is not fully syncd with Twitch. There is a delay between streaming status changes.</footer>
+    </div>
+    <script type="text/javascript" src="./twitch-streamers.js"></script>
+</body>
